@@ -1,19 +1,7 @@
-# Hi, I'm Rohan 👋
-
-🎯 Focused on Data Structures, Algorithms, and Backend Development  
-💡 Building real-world systems with strong problem-solving skills  
-
----
-
-## 🔥 Activity & Stats
+<h1 align="center">Hi, I'm Rohan 👋</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DarjiRohan&show_icons=true&count_private=true" />
-  <img src="https://streak-stats.demolab.com?user=DarjiRohan" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarjiRohan&layout=compact" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer;DSA+Focused;System+Builder;Building+Clinexa" />
 </p>
 
 ---
@@ -21,51 +9,64 @@
 ## 🧠 About Me
 
 - Solved 400+ problems on LeetCode  
-- Strong in Data Structures & Algorithms  
-- Learning backend development and system design  
-- Building real-world impactful projects  
+- Strong focus on Data Structures & Algorithms  
+- Interested in backend systems and real-world problem solving  
+- Currently building impactful systems with scalable thinking  
 
 ---
 
-## 🚑 Featured Project
+## 🚑 Systems I'm Building
 
 ### Clinexa (In Progress)
 AI-powered emergency healthcare system
 
-- 🚨 Smart hospital recommendation system  
-- 🚑 Real-time ambulance dispatch  
-- 🧠 AI symptom analysis  
+- 🚨 Smart hospital recommendation engine  
+- 🚑 Real-time ambulance dispatch system  
+- 🧠 AI-based symptom analysis  
 - 💊 Medicine delivery integration  
+
+> Focus: scalability, decision systems, real-world impact  
 
 ---
 
-## 💻 Tech Stack
+## ⚙️ Technical Focus
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,git,github,postman" />
+- Data Structures & Algorithms  
+- Backend Development (APIs, System Design)  
+- Problem Solving & Optimization  
+
+---
+
+## 🧠 Problem Solving
+
+- Solved 400+ problems on LeetCode  
+- Consistent daily practice  
+- Strong grasp of core DSA patterns  
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/rohandarji_6706?theme=dark&font=baloo&ext=heatmap" />
 </p>
 
 ---
 
-## 📊 Coding Profiles
+## 📊 Development Activity
 
-- LeetCode: 400+ problems solved  
-- Codeforces: Improving  
-- CodeChef: Active  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DarjiRohan&show_icons=true&count_private=true" />
+  <img src="https://streak-stats.demolab.com?user=DarjiRohan" />
+</p>
 
----
-
-## ⚡ Current Focus
-
-- Advanced DSA  
-- Backend development  
-- Building Clinexa  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DarjiRohan&theme=github-dark" />
+</p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🚀 Featured Work
 
-![snake gif](https://github.com/DarjiRohan/DarjiRohan/blob/output/github-contribution-grid-snake.svg)
+- 🔹 Clinexa (AI Healthcare System)  
+- 🔹 Structured DSA Repository  
+- 🔹 Backend API Projects (in progress)  
 
 ---
 

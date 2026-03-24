@@ -8,12 +8,12 @@
 ## 🔥 Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true" />
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DarjiRohan&show_icons=true&count_private=true" />
+  <img src="https://streak-stats.demolab.com?user=DarjiRohan" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarjiRohan&layout=compact" />
 </p>
 
 ---
@@ -65,7 +65,7 @@ AI-powered emergency healthcare system
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/DarjiRohan/DarjiRohan/blob/output/github-contribution-grid-snake.svg)
 
 ---
 

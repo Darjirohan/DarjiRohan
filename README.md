@@ -1,16 +1,75 @@
-## Hi there 👋
+# Hi, I'm Rohan 👋
 
-<!--
-**Darjirohan/DarjiRohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Focused on Data Structures, Algorithms, and Backend Development  
+💡 Building real-world systems with strong problem-solving skills  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Activity & Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true" />
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+</p>
+
+---
+
+## 🧠 About Me
+
+- Solved 400+ problems on LeetCode  
+- Strong in Data Structures & Algorithms  
+- Learning backend development and system design  
+- Building real-world impactful projects  
+
+---
+
+## 🚑 Featured Project
+
+### Clinexa (In Progress)
+AI-powered emergency healthcare system
+
+- 🚨 Smart hospital recommendation system  
+- 🚑 Real-time ambulance dispatch  
+- 🧠 AI symptom analysis  
+- 💊 Medicine delivery integration  
+
+---
+
+## 💻 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,git,github,postman" />
+</p>
+
+---
+
+## 📊 Coding Profiles
+
+- LeetCode: 400+ problems solved  
+- Codeforces: Improving  
+- CodeChef: Active  
+
+---
+
+## ⚡ Current Focus
+
+- Advanced DSA  
+- Backend development  
+- Building Clinexa  
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📫 Connect
+
+- LinkedIn: https://www.linkedin.com/in/darji-rohan-3947092b3 
+- Email: rohan672006@gmail.com
